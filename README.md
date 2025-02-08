@@ -27,3 +27,11 @@ Your task is to analyse the telemetry data collected by Daikibo in a software ca
       7. Create a Dashboard with the 2 previous sheets and set the first chart to be used as a filter (selecting a factory in the first chart shows only the down time of the machines in this factory in the second chart).
       8. Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
       9. Please find a step-by-step Task Guide pdf attached in the resources below to help you out.
+
+
+
+
+![Screen Shot 2025-02-06 at 10 41 14 PM](https://github.com/user-attachments/assets/18568ed4-5050-4933-b819-95b050c97653)
+
+
+
